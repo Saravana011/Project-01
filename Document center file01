@@ -8,3 +8,5 @@ class Test
 };
 
 updating the line for reverting the changes into previous version in GIT UI
+
+Adding line 1 for reverting the latest commit done in git 
